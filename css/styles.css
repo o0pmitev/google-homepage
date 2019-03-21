@@ -27,6 +27,8 @@
 /****************** LOGO ******************/
 img {
   width: 300px;
+  display: flex;
+  align-items: center;
 }
 /****************** /logo ******************/
 
@@ -35,7 +37,7 @@ img {
 /****************** SEARCH ******************/
 
 .custom-input-style { 
-  width: 500px;
+  width: 100%;
 }
 
 .custom-button-style {
